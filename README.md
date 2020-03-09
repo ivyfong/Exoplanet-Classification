@@ -13,13 +13,17 @@ The objective of this project is to use Scikit-learn to create machine learning 
     
 ## **Screenshots:**
 Classification Report - Logistic Regression Classifier
+
 ![screenshot1.jpg](Images/Classification_Report_Logistic.JPG)
 
 Classification Report - K-Nearest Neighbors Classifier
+
 ![screenshot2.jpg](Images/Classification_Report_KNN.JPG)
 
 Classification Report - Random Forest Classifier
+
 ![screenshot3.jpg](Images/Classification_Report_Tree.JPG)
 
 Classification Report - Support Vector Classifier
+
 ![screenshot4.jpg](Images/Classification_Report_SVM.JPG)
