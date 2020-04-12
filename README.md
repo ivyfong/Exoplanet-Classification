@@ -9,8 +9,11 @@ The objective of this project is to use Scikit-learn to create machine learning 
 - Support Vector Model
 
 ## **Tools:**
-1. Python - Scikit-learn, Pandas
-    
+Python - Scikit-learn, Pandas
+
+## **Data Source:**
+NASA Kepler Objects of Interest Table: https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html
+
 ## **Screenshots (Classifcation Reports):**
 Logistic Regression Classifier
 
