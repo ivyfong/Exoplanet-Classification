@@ -14,19 +14,19 @@ Python - Scikit-learn, Pandas
 ## **Data Source:**
 NASA Kepler Objects of Interest Table: https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html
 
-## **Screenshots (Classifcation Reports):**
-Logistic Regression Classifier
+## **Screenshots (Classification Reports):**
+Logistic Regression Model
 
 ![screenshot1.jpg](Images/Classification_Report_Logistic.JPG)
 
-K-Nearest Neighbors Classifier
+K-Nearest Neighbors Model
 
 ![screenshot2.jpg](Images/Classification_Report_KNN.JPG)
 
-Random Forest Classifier
+Random Forest Model
 
 ![screenshot3.jpg](Images/Classification_Report_Tree.JPG)
 
-Classification Report - Support Vector Classifier
+Support Vector Model
 
 ![screenshot4.jpg](Images/Classification_Report_SVM.JPG)
