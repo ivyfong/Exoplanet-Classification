@@ -11,16 +11,16 @@ The objective of this project is to use Scikit-learn to create machine learning 
 ## **Tools:**
 1. Python - Scikit-learn, Pandas
     
-## **Screenshots:**
-Classification Report - Logistic Regression Classifier
+## **Screenshots (Classifcation Reports):**
+Logistic Regression Classifier
 
 ![screenshot1.jpg](Images/Classification_Report_Logistic.JPG)
 
-Classification Report - K-Nearest Neighbors Classifier
+K-Nearest Neighbors Classifier
 
 ![screenshot2.jpg](Images/Classification_Report_KNN.JPG)
 
-Classification Report - Random Forest Classifier
+Random Forest Classifier
 
 ![screenshot3.jpg](Images/Classification_Report_Tree.JPG)
 
