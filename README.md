@@ -1,4 +1,4 @@
-# Exoplanet Exploration
+# Exoplanet Classification Analysis
 
 ## **Objective:**
 The objective of this project is to use Scikit-learn to create machine learning models capable of classifying candidate exoplanets from the NASA Kepler Objects of Interest dataset. After scaling the data and separating the data into training and testing data, the following classification models were tuned and tested:
